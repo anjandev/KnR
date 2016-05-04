@@ -1,0 +1,2 @@
+printf uses %f for both floats and doubles
+putchar(c) to print characters
